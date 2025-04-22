@@ -13,13 +13,23 @@
 
 ## 🛠️ Tech Stack
 
+![AI Agent](https://img.shields.io/badge/AI%20Agent-blue)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-blueviolet)
+![LLM](https://img.shields.io/badge/LLM-darkgreen)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-lightcoral)
+![NLP](https://img.shields.io/badge/NLP-lightblue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-blueviolet)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
+![Llama Index](https://img.shields.io/badge/Llama%20Index-green)
+![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning-lightgray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
